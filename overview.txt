@@ -1,0 +1,7 @@
+QR Code generator created using HTML/CSS/JavaScript
+
+Uses QR Server API to generate QR Codes
+
+Author: Sameer Alam
+
+Credit to Easy Tutorials on YT for video tutorials and help creating a baseline
